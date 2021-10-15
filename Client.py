@@ -1,5 +1,4 @@
 def search():
-def search():
     import socket
     sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
     port = 25565
